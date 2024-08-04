@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>Hellocd todolist</div>
+    <div className='App'>Hellocd todolist</div>
   );
 }
 
