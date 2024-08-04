@@ -31,20 +31,20 @@ Task Display:** The `Main` component renders the list of tasks in a table, using
 
 4. Setup and Running the Application :
 
-1.  **Clone the repository:**
+- **Clone the repository:**
 
     ```bash
     git clone <repository_url>
     ```
 
-2.  **Install dependencies:**
+- **Install dependencies:**
 
     ```bash
     cd react-todo-list
     npm install
     ```
 
-3.  **Start the development server:**
+- **Start the development server:**
 
     ```bash
     npm start
