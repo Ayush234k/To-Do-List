@@ -1,4 +1,5 @@
 import React from 'react'
+import { BsFillTrashFill, BsFillPencilFill } from "react-icons/bs";
 import './Main.css'
 
 export const Main = () => {
@@ -14,6 +15,7 @@ export const Main = () => {
           </tr>
         </thead>
         <tbody>
+          
         </tbody>
       </table>
     </div>
